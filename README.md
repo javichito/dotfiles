@@ -1,6 +1,6 @@
-#Dotfiles
+# Dotfiles
 
-##How to link?
+## How to link?
 ```bash
 ln -s dotfiles/{FILE} ~/{FILE}
 ```
